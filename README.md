@@ -4,7 +4,7 @@ I am Huang Xu, Xu is my first name and Huang is my last name.
 
 I live and work in Hanzhou City, China.
 
-I graduate from Zhejiang University in 2019 and now I am a software engineer and data researcher.
+I graduated from Zhejiang University in 2019 and now I am a software engineer and data researcher.
 
 I enjoy life and like to cook and photo, I am also a vlogger.
 
