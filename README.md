@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-I am Huang Xu, Xu is my first name and Huang is my last name. 
+Nice to meet you!
 
-I live and work in Hanzhou City, China.
+I am Huang Xu, you can also call me Harry that it is my first English name when I started to learn the language. Now I work as a software engineer in Hanzhou City, China.
 
-I graduated from Zhejiang University in 2019 and now I am a software engineer and data researcher.
+My research interests are speech technique and some devops skill. I think the speech technique is one kind of mostly easy-to-land AI application and can make people's life difference.
 
-I enjoy life and like to cook and photo, I am also a vlogger.
+🚀 I use daily: Java Python
 
-Now my favors are speech and other AI applications or implements.
-
-I think that that life should have unlimited possible, I hope we can be good pals to share what are beautiful. 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=harrysimply)
@@ -18,7 +15,7 @@ I think that that life should have unlimited possible, I hope we can be good pal
 
 <!-- **harrysimply/harrysimply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🚀 I use daily: Java Python Git Shell VS Code
+
 
 
 
